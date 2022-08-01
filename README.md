@@ -1,6 +1,6 @@
 ## Ola! eu sou a Cibeli Mariano
 
-- 🌱Estudando Ciência da Computação na Universidade São Judas
+- 🌱Estudo Ciência da Computação na Universidade São Judas
 - 📝 Linguagem em processo de desenvolvimento JavaScript
 - 😄 Pronouns: Ela/ dela
 
